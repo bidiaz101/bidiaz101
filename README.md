@@ -38,6 +38,6 @@ One thing I always remind myself of is if you fail to plan, you plan to fail. I 
 
 ### Skills
 
-![Javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt='Javascript' style=" width:60px ; height:60px "/>
 
 
