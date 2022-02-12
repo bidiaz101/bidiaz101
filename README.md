@@ -1,4 +1,4 @@
-### Hi, I'm Brian! 👋
+# Hi, I'm Brian! 👋
 
 <!--
 **bidiaz101/bidiaz101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ team-related. I am driven to provide harmony and progress!
 
 One thing I always remind myself of is if you fail to plan, you plan to fail. I not only solve problems, but I take time to create a plan of attack to find the best solution. Ask me about Ruby on Rails, React, or the proper use for each hot sauce brand. 
 
-#### Projects :coffee:
+### Projects :coffee:
 
 **Super Movie Library** [Demo](https://www.youtube.com/watch?v=4Qoii_8cGOs) | [Repo](https://github.com/bidiaz101/movie-library)
 
@@ -34,9 +34,9 @@ One thing I always remind myself of is if you fail to plan, you plan to fail. I 
 
 :microscope: Renders Breaking Bad show information in React and Bootstrap
 
-#### Get in Touch :email:
+### Get in Touch :email:
 
-#### Skills
+### Skills
 
 ![Javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 
