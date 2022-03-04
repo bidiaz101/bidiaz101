@@ -36,8 +36,8 @@ One thing I always remind myself of is if you fail to plan, you plan to fail. I 
 
 ### Get in Touch :email:
 <p float='left'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='Twitter' style=" width:80px ; height:60px " />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' style=" width:60px ; height:60px " />
+    <a href="https://twitter.com/bidiaz101" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='Twitter' style=" width:80px ; height:60px " /></a>
+    <a href="https://www.linkedin.com/in/brian-i-diaz/" target="__blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' style=" width:60px ; height:60px " /></a>
 </p>
 
 ### Skills
