@@ -35,8 +35,6 @@ One thing I always remind myself of is if you fail to plan, you plan to fail. I 
 :microscope: Renders Breaking Bad show information in React and Bootstrap
 
 ### Get in Touch :email:
-<p float='left'>
-    <a href="https://twitter.com/bidiaz101" target="_blank" rel="noreferrer noopener" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='Twitter' style=" width:80px ; height:60px " /></a>
     <a href="https://www.linkedin.com/in/brian-i-diaz/" target="_blank" rel="noreferrer noopener" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' style=" width:60px ; height:60px " /></a>
 </p>
 
